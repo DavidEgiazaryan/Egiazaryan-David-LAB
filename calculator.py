@@ -3,6 +3,11 @@ print("Простой калькулятор")
 num1 = int(input("Введите первое число: "))
 num2 = int(input("Введите второе число: "))
 
-res = num1 - num2
+resrazn = num1 - num2
+ressum = num1 - num2
+resdel = num1 / num2
 
-print(f"Сумма чисел равна: {res}")
+
+print(f"азность чисел равна: {ressum}")
+print(f"Сумма чисел равна: {ressum}")
+print(f"Частное чисел равно: {resdel}")

@@ -12,3 +12,4 @@ resdel = num1 / num2
 print(f"Разность чисел равна: {ressum}")
 print(f"Сумма чисел равна: {ressum}")
 print(f"Частное чисел равно: {resdel}")
+print("Это певрое изменение для задания 9 версия 2 rebase")

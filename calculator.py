@@ -8,6 +8,6 @@ ressum = num1 - num2
 resdel = num1 / num2
 
 
-print(f"азность чисел равна: {ressum}")
+print(f"Разность чисел равна: {ressum}")
 print(f"Сумма чисел равна: {ressum}")
 print(f"Частное чисел равно: {resdel}")
